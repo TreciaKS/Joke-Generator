@@ -15,6 +15,7 @@ function generateEmojies() {
 }
 
 function generateJoke() {
+
     fetch("https://jokes-by-api-ninjas.p.rapidapi.com/v1/jokes?limit=30", {
 	"method": "GET",
 	"headers": {
@@ -25,6 +26,8 @@ function generateJoke() {
     .then(res => res.json())
     .then(data => {
         const myJoke = data
+
+        // console.log(data)
         let text = ""
         for (let item of myJoke) {
             text = `
