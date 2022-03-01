@@ -1,14 +1,10 @@
 # Joke-Generator
 Joke Generator to created with API. Just click on the button to display joke.
 
-# portfolio-website
-
-### Welcome to my personal portfolio website. I wanted it to be as unique as possible and to display my own personality. I loved the arcade game Pac-Man and I took inspiration from it. Hopefully my theme gives of that 80s retro atmosphere.
-
 <h2>Current Challenge</h2>
 <ul>
-  <li>Button needs to be clicekd twice to display joke (Maybe API is slow, not sure)</li>
-  <li>Some jokes are very long, on Desktop view, the content holding joke overlays the navbar</li>
+  <li>Button needs to be clicked twice to display joke (Maybe API is slow, not sure)</li>
+  <li>Some jokes are very long, on Desktop view, the content box overlays the navbar</li>
 </ul>
 
 <h2>Colour Scheme</h2>
